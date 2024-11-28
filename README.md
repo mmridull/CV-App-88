@@ -88,7 +88,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Droxt1/CV-App-88.git
+  git clone https://github.com/mmirdull/CV-App-88.git
 ```
 
 Go to the project directory
