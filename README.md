@@ -138,20 +138,15 @@ Start the server
 <!-- Code of Conduct -->
 ### Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/Droxt1/CV-App-88/blob/develop/CODE_OF_CONDUCT.md)
+Please read the [Code of Conduct](https://github.com/mmridull/CV-App-88/blob/develop/CODE_OF_CONDUCT.md)
 
 
-
-<!-- License -->
-## License
-
-See [LICENSE](https://github.com/Droxt1/CV-App-88/blob/develop/LICENSE) for more information.
 
 
 <!-- Contact -->
 ## Contact
 
-Ahmed Amer - [LinkedIn](https://www.linkedin.com/in/ahmed-amer-43973a20a/) - ahmed.amer56@mail.ru
+Mridul Pandey - [LinkedIn](linkedin.com/in/mridul-pandey-4326b1239) 
 
 
 <!-- Acknowledgments -->
@@ -160,8 +155,5 @@ Ahmed Amer - [LinkedIn](https://www.linkedin.com/in/ahmed-amer-43973a20a/) - ahm
  - [Haki Bentia](https://hakibenita.com/tag/django)
  - [Very Academy](https://youtube.com/@veryacademy)
 
-<!-- Frontend -->
-## Frontend
 
--  [Flutter App](https://github.com/devsadeq/JobsFlutterApp)
 
